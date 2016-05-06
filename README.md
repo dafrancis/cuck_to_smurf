@@ -2,6 +2,8 @@
 
 An example Chrome + Firefox addon
 
+Made for this blog post: https://medium.com/@Afal/how-to-write-chrome-and-also-firefox-i-guess-addons-fb987cfe76b6#.dq39ca7k8
+
 https://chrome.google.com/webstore/detail/ofphpecnggajokednpbnbghnlloaccco
 
 https://addons.mozilla.org/en-US/firefox/addon/cuck-to-smurf/
